@@ -1,0 +1,10 @@
+header .leftCol a {
+    margin: 0 0 0 20px;
+}
+
+header .leftCol span a {
+    color: #5c6670;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+}

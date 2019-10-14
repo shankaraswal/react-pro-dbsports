@@ -1,0 +1,2 @@
+header .rightCol .button,
+header .rightCol button{margin:0 0.5rem;display:inline-block;cursor:pointer;-webkit-transition:all ease .8s;-moz-transition:all ease .8s;transition:all ease .8s;}

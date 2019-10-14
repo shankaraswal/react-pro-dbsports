@@ -1,0 +1,13 @@
+header{background:#fff;border-bottom:1px solid #e0e0e0;}
+header .topBar{padding:10px 0;transition: height 0.4s;}
+header .leftCol a{ margin:0 0 0 20px;}
+header .leftCol span a{ color:#5c6670;font-size:12px;letter-spacing:1px;margin-left:10px;}
+header .rightCol{ position:relative}
+header .rightCol .button{margin-left:5px}
+header .rightCol .button:nth-last-child(1){margin-right:20px}
+header .lowerBar{padding:0; margin:0; height:55px; line-height:55px;}
+header .reserveDrilldown{ min-height:250px; z-index:9999}
+header .dropdown-pane.is-open{width:max-content; right:0}
+header .dropdown-pane{ padding:0; border:0}
+
+header .mainNavBar{border-top:1px solid #ccc;}

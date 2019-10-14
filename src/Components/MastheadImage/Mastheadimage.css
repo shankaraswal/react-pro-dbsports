@@ -1,0 +1,8 @@
+.imgMastHeadWrapper {}
+.imgMastHeadWrapper .bgMastHead{ 
+    background-repeat: no-repeat; 
+    background-position: center top;
+    background-size: 100%;
+    min-height:300px; 
+    width: 100%;
+    }
